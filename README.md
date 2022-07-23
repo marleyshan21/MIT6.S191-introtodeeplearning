@@ -2,7 +2,7 @@
 
 This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the course website.
 
-Refer to this repo for notes for the lectures - https://github.com/dair-ai/ML-Course-Notes
+#Refer to this repo for notes on the topics discussed in the video lectures - https://github.com/dair-ai/ML-Course-Notes
 
 ## License
 All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com). All Rights Reserved.
